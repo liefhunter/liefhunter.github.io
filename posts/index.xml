@@ -1,6 +1,62 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Rosetta Stone</title><link>https://www.liefsun.com/posts/</link><description>Recent content in Posts on Rosetta Stone</description><generator>Hugo -- 0.148.0</generator><language>en</language><lastBuildDate>Tue, 08 Jul 2025 15:27:45 +0100</lastBuildDate><atom:link href="https://www.liefsun.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://www.liefsun.com/posts/first/</link><pubDate>Tue, 08 Jul 2025 15:27:45 +0100</pubDate><guid>https://www.liefsun.com/posts/first/</guid><description>&lt;p>Hello World! This is my first post on this blog. I am excited to share my thoughts and experiences with you all. Stay tuned for more updates!&lt;/p>
-&lt;p>这是行内公式：$E = mc^2$&lt;/p>
-&lt;p>这是块级公式：&lt;/p>
-&lt;p>$$
-\int_0^1 x^2 dx = \frac{1}{3}
-$$&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Rosetta Stone</title><link>https://www.liefsun.com/posts/</link><description>Recent content in Posts on Rosetta Stone</description><generator>Hugo -- 0.148.0</generator><language>en</language><lastBuildDate>Fri, 10 Jan 2025 15:27:45 +0100</lastBuildDate><atom:link href="https://www.liefsun.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>《纳瓦尔宝典》：财富与幸福的智慧思考</title><link>https://www.liefsun.com/posts/first/</link><pubDate>Fri, 10 Jan 2025 15:27:45 +0100</pubDate><guid>https://www.liefsun.com/posts/first/</guid><description>&lt;p>最近读完了《纳瓦尔宝典》，这本书汇集了硅谷著名投资人和哲学家纳瓦尔·拉维坎特关于财富创造和幸福生活的思考。作为AngelList创始人，纳瓦尔的见解既有商业实战的深度，又有哲学思辨的高度。&lt;/p>
+&lt;h2 id="关于财富的重新思考">关于财富的重新思考&lt;/h2>
+&lt;p>纳瓦尔对财富的定义颠覆了我的传统认知。他认为：&lt;/p>
+&lt;blockquote>
+&lt;p>财富是睡觉时也能为你赚钱的资产。&lt;/p>&lt;/blockquote>
+&lt;p>这不是关于金钱数量的游戏，而是关于创造系统性收入的能力。真正的财富来自于：&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>专长的培养&lt;/strong>：成为某个领域不可替代的人&lt;/li>
+&lt;li>&lt;strong>杠杆的运用&lt;/strong>：通过代码、媒体、人员放大个人影响力&lt;/li>
+&lt;li>&lt;strong>特定知识&lt;/strong>：那些无法通过培训获得，只能通过追求和天赋习得的知识&lt;/li>
+&lt;/ul>
+&lt;p>这让我重新审视了自己的职业规划。与其追求更高的薪水，不如思考如何建立自己的专业护城河。&lt;/p>
+&lt;h2 id="幸福的简单智慧">幸福的简单智慧&lt;/h2>
+&lt;p>在谈到幸福时，纳瓦尔提出了一个令人深思的公式：&lt;/p>
+&lt;p>$$\text{幸福} = \text{健康} + \text{财富} + \text{好的人际关系} - \text{欲望}$$&lt;/p>
+&lt;p>最后那个减号特别有意思。他认为：&lt;/p>
+&lt;ul>
+&lt;li>幸福是一种技能，可以通过冥想、感恩等方式培养&lt;/li>
+&lt;li>减少欲望比增加拥有更容易获得满足&lt;/li>
+&lt;li>活在当下比追逐未来更重要&lt;/li>
+&lt;/ul>
+&lt;p>这提醒我，很多时候我们的不快乐来自于无止境的比较和欲望，而不是实际的匮乏。&lt;/p>
+&lt;h2 id="学习与阅读的力量">学习与阅读的力量&lt;/h2>
+&lt;p>纳瓦尔是一个极其热爱学习的人，他的一些观点让我印象深刻：&lt;/p>
+&lt;ul>
+&lt;li>&amp;ldquo;基础知识比新知识更重要&amp;rdquo;&lt;/li>
+&lt;li>&amp;ldquo;读书要读经典，因为它们经过了时间的检验&amp;rdquo;&lt;/li>
+&lt;li>&amp;ldquo;宁可深度阅读少数好书，也不要浅尝辄止地读很多书&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;p>他特别强调数学、科学和哲学这些基础学科的重要性。这些看似无用的知识，往往是理解世界运行规律的基石。&lt;/p>
+&lt;h2 id="决策与理性思维">决策与理性思维&lt;/h2>
+&lt;p>书中关于决策的章节也很有启发性：&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>简化决策&lt;/strong>：对于可逆的决策要快速，对于不可逆的决策要深思&lt;/li>
+&lt;li>&lt;strong>第一性原理&lt;/strong>：回到事物的本质去思考问题&lt;/li>
+&lt;li>&lt;strong>概率思维&lt;/strong>：用概率而不是确定性来看待世界&lt;/li>
+&lt;/ol>
+&lt;p>这些思维框架在日常生活和工作中都很实用。&lt;/p>
+&lt;h2 id="个人思考">个人思考&lt;/h2>
+&lt;p>读完这本书，我最大的收获是开始重新思考&amp;quot;成功&amp;quot;的定义。&lt;/p>
+&lt;p>以前我认为成功就是升职加薪、买房买车，但纳瓦尔让我意识到，真正的成功可能是：&lt;/p>
+&lt;ul>
+&lt;li>拥有选择的自由&lt;/li>
+&lt;li>做自己热爱的事情&lt;/li>
+&lt;li>保持内心的平静&lt;/li>
+&lt;li>与真正在乎的人共度时光&lt;/li>
+&lt;/ul>
+&lt;h2 id="一些值得记住的金句">一些值得记住的金句&lt;/h2>
+&lt;blockquote>
+&lt;p>&amp;ldquo;学会如何学习，比学什么更重要。&amp;rdquo;&lt;/p>&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&amp;ldquo;你无法通过租用自己的时间变得富有。&amp;rdquo;&lt;/p>&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&amp;ldquo;如果你不能决定，答案就是否定的。&amp;rdquo;&lt;/p>&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&amp;ldquo;明确的思考产生明确的语言。&amp;rdquo;&lt;/p>&lt;/blockquote>
+&lt;h2 id="结语">结语&lt;/h2>
+&lt;p>《纳瓦尔宝典》不是一本简单的成功学读物，而是一本关于如何思考人生的哲学指南。它没有给出标准答案，而是提供了思考的框架。&lt;/p>
+&lt;p>在这个焦虑的时代，纳瓦尔的智慧就像一剂清醒剂，提醒我们慢下来，想清楚什么对自己真正重要。&lt;/p>
+&lt;p>正如他所说：&amp;ldquo;幸福不是你获得的东西，而是你不再想要的东西。&amp;rdquo;&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>这本书值得反复阅读，每次都会有新的思考。推荐给所有想要理解财富本质、追求内心平静的朋友。&lt;/em>&lt;/p></description></item></channel></rss>
